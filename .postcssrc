@@ -1,0 +1,7 @@
+{
+"ns": {
+    "postcss-preset-env": {
+      "stage": 0
+    }
+  }
+}
